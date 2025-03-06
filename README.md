@@ -1,11 +1,11 @@
-# Sentiment Analysis with Python (YouTube Comments Dataset)
 
-This project is a sentiment analysis pipeline built with Python, inspired by the [Sentiment Analysis YouTube Tutorial](https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial). The goal is to classify YouTube video comments as positive, negative, or neutral using machine learning and natural language processing techniques.
+
+This project is a sentiment analysis pipeline built with Python, inspired by the [Sentiment Analysis YouTube Tutorial](https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial). The goal is to classify amazon comments as positive, negative, or neutral using machine learning and natural language processing techniques.
 
 ## 📌 Project Overview
 The project walks through the entire sentiment analysis workflow, including:
 
-1. Data Collection (YouTube comments dataset)
+1. Data Collection 
 2. Data Cleaning and Preprocessing
 3. Sentiment Labeling
 4. Text Vectorization (TF-IDF, Count Vectorizer)
@@ -26,7 +26,7 @@ The project walks through the entire sentiment analysis workflow, including:
 ---
 
 ## 📄 Dataset
-The dataset contains YouTube comments with corresponding sentiment labels (positive, negative, or neutral). The comments were extracted using Kaggle's public datasets.
+The dataset contains amazon comments with corresponding sentiment labels (positive, negative, or neutral). The comments were extracted using Kaggle's public datasets.
 
 ---
 
